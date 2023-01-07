@@ -8,7 +8,7 @@ import the math module
 ### Step 2: 
 enter the values in a list in two variables
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](formula.jpg)
+Substitute the values in the distance formula  ![formula](formula.JPG)
 ### Step 4: 
 Store the answer of the substitution in variable
 ### Step 5: 
